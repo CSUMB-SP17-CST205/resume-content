@@ -1,5 +1,5 @@
 The main componentes of a resume are: 
-1) 
-2) 
-3) 
-4)
+1)Contact Info 
+2)Experiences
+3)Skills
+4)Highlights
