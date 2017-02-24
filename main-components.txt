@@ -2,4 +2,4 @@ The main componentes of a resume are:
 1) Personal Contact Info.
 2) 
 3) 
-4) 
+4)Education
